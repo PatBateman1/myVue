@@ -1,0 +1,19 @@
+{
+  "name": "myvue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatBateman1/myVue.git"
+  },
+  "author": "Bateman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatBateman1/myVue/issues"
+  },
+  "homepage": "https://github.com/PatBateman1/myVue#readme"
+}
